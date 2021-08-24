@@ -1,6 +1,9 @@
+.item-list {
+  margin-bottom: 1rem;
+}
+
 .item-list .list-group-item {
   cursor: pointer;
-  margin-left: 170px;
 }
 
 .item-list .list-group-item:hover {
